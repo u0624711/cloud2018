@@ -34,7 +34,7 @@
 2. 項目2
 3. 項目3
 
-外部超連結A： [外部超連結(表情符號)](https://www.webpagefx.com/tools/emoji-cheat-sheet/){:target="_blank"}
+外部超連結A： [外部超連結(表情符號)](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 外部超連結B： <https://www.google.com.tw/>
 
